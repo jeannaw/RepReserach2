@@ -1,0 +1,57 @@
+OPER,STORMEVENT,PRIO,SEARCHEVTYPE
+remove,,1,Apache County
+remove,,1,No Severe Weather|No Extreme Weather
+remove,,1,Non
+remove,,1,Summary
+remove,,1,Month
+remove,,1,Year
+remove,,1,Northern Lights
+remove,,1,Other
+grepl,Astronomical Low Tide,1,Astronomical Low Tide
+grepl,Avalanche,1,Avalanche
+grepl,Blizzard,1,Blizzard
+grepl,Coastal Flood,1,Coastal Flood|Coastal Erosion
+grepl,Cold/Wind Chill,9,Cold/Wind Chill|Cold
+grepl,Debris Flow,1,Debris|Slide|Landslump|Landslide
+grepl,Dense Fog,9,Fog
+grepl,Dense Smoke,1,Dense Smoke|Smoke
+grepl,Drought,1,Dry|Drought
+grepl,Dust Devil,1,Dust Devil
+grepl,Dust Storm,1,Dust Storm|Saharan Dust|Duststorm
+grepl,Excessive Heat,5,Excessive Heat|Extreme Warm|Extreme High|Hot
+grepl,Extreme Cold/Wind Chill,1,Extreme Wind|Extreme Cold|Extreme Low
+grepl,Flash Flood,2,Flash|Drowning
+grepl,Flood,8,Flood
+grepl,Frost/Freeze,5,Frost|Freeze|Ice
+grepl,Funnel Cloud,1,Funnel|Wall Cloud
+grepl,Freezing Fog,1,Freezing Fog|Ice Fog
+grepl,Hail,1,Hail
+grepl,Heat,9,Heat
+grepl,Heavy Rain,9,Heavy Rain|Heavy Shower|Precipitation|Rain
+grepl,Heavy Snow,1,Heavy Snow|Accumulated Snow|Extreme Snow|Heavy Wet Snow
+grepl,High Surf,1,Surf
+grepl,High Wind,9,High Wind|Gustnado|Wind
+grepl,Hurricane (Typhoon),1,Hurricane|Typhoon
+grepl,Ice Storm,1,Ice Storm
+grepl,Lake-Effect Snow,1,Lake-Effect Snow|Lake Snow
+grepl,Lakeshore Flood,1,Lakeshore Flood|Lake Flood|River Flood
+grepl,Lightning,1,Lightning
+grepl,Marine Hail,1,Marine Hail|Marine Accident|Marine Mishap
+grepl,Marine High Wind,1,Marine High Wind
+grepl,Marine Strong Wind,1,Marine Strong Wind
+grepl,Marine Thunderstorm Wind,1,Marine Thunderstorm Wind
+grepl,Rip Current,1,Rip Current
+grepl,Seiche,1,Seiche
+grepl,Sleet,1,Sleet
+grepl,Storm Surge/Tide,1,Surge|Tide|Tidal|Coastal Storm
+grepl,Strong Wind,1,Strong Wind|Gusty Wind|Downburst
+grepl,Thunderstorm Wind,1,Thunderstorm|Microburst
+grepl,Tornado,1,Tornado
+grepl,Tropical Depression,1,Tropical Depression
+grepl,Tropical Storm,1,Tropical Storm
+grepl,Tsunami,1,Tsunami
+grepl,Volcanic Ash,1,Volcanic
+grepl,Waterspout,1,Waterspout
+grepl,Wildfire,9,Wildfire|Fire
+grepl,Winter Storm,5,Winter Storm
+grepl,Winter Weather,8,Snow|Winter|Freezing|Glaze|Hypothermia
